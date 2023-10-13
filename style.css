@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+*{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"serif,"serif";
+}
+
+
+.navbar.navbar-expand-lg.navbar-dark {
+    background-color: #000000;
+}
+.container #navbarSupportedContent .navbar-nav.mr-auto {
+	margin: 0 auto;
+}
+#navbarSupportedContent .form-inline.my-2.my-lg-0 .btn.btn-outline-success.my-2.my-sm-0 {
+	border-color: white;
+	color: white;
+}
+.row .col-md-4.col-lg-5.col-6 address {
+}
+.card .card-body .btn.btn-primary {
+    background-color: #000000;
+	
+}
+.container.text-white.p-4 {
+	background-color: black;
+}
+
+h2{
+	letter-spacing: 8px;
+}
+.text-center {
+}
