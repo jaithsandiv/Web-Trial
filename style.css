@@ -23,10 +23,16 @@
 }
 .container.text-white.p-4 {
 	background-color: black;
+	text-decoration:none;
+	color: white;
 }
 
 h2{
 	letter-spacing: 8px;
 }
-.text-center {
+.list-unstyled li b {
+	color: white;
+}
+.list-unstyled li a {
+	color: white;
 }
